@@ -1,0 +1,25 @@
+
+.card{
+  height: 300px;
+  background: linear-gradient(145deg, #251c17, #191310);
+  border: 1px solid #443126;
+  border-radius: 18px;
+  padding: 25px;
+  box-shadow: 0 8px 25px #00000035;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+  box-shadow: 0.3s ease;
+
+
+
+}
+
+.imgcafe{
+
+  width: 100px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 0 0 12px;
+  margin-bottom: 16px;
+  display: block;
+
+}
